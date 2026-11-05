@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: otherly.github.io/fieldnotes
+  baseUrl: vuoyez.github.io/fieldnotes
   ignorePatterns:
     - private
     - templates
