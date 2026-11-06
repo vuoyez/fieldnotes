@@ -1,4 +1,5 @@
 ---
-title: welcome to the garden
+title: welcome to my knowledge garden
 ---
-hello :)
+hello, i'm rye.
+
