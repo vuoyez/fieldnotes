@@ -8,3 +8,4 @@
 
 **6 nov 2026**
 - i woke up and immediately worked on this once again. still working as i write this. i haven't even had breakfast yet.
+- it's noon and i just figured the theme out. i just realized i didn't like it very much, though.
