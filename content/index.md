@@ -1,12 +1,3 @@
-hello!!
-
-this is a test!!
-
 ---
-title: ch's fieldnotes
+title: welcome to the garden
 ---
-
-Welcome to my digital garden!
-
-Here are some things I am currently exploring:
-- [[Microbiology]]

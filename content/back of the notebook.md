@@ -1,6 +1,8 @@
-this is my scratchpad
+welcome to my scratchpad!!!!!!!
 
 ***
+
+5 nov 2026
 
 will probably make a [[changelogs]] in the future? is that a thing here?
 
@@ -39,3 +41,8 @@ as mentioned in my [[a gardener's diary|my diary]], i'm trying to install the ev
         textHighlight: "#b3aa0288"
 ```
 
+***
+
+styling i wanna do in the future:
+- lowercase "explore", "home", etc
+- edit footnotes (remove github and discord sorry)

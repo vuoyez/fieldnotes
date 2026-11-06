@@ -7,4 +7,4 @@
 - i closed my mac feeling frustrated because i somehow couldn't install them.
 
 **6 nov 2026**
-- i woke up and immediately worked on this once again. still working as i write this. i haven't had breakfast yet.
+- i woke up and immediately worked on this once again. still working as i write this. i haven't even had breakfast yet.

@@ -16,31 +16,29 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Outfit
-      body: Inter
-      code: "JetBrains Mono"
+      header: Schibsted Grotesk
+      body: Source Sans Pro
+      code: IBM Plex Mono
     colors:
-      # Everforest Light
       lightMode:
-        light: "#fdf6e3"
-        lightgray: "#efebd4"
-        gray: "#a6b0a0"
-        darkgray: "#5c6a72"
-        dark: "#3a464c"
-        secondary: "#8da101"
-        tertiary: "#35a77c"
-        highlight: "rgba(141, 161, 1, 0.12)"
+        light: "#faf8f8"
+        lightgray: "#e5e5e5"
+        gray: "#b8b8b8"
+        darkgray: "#4e4e4e"
+        dark: "#2b2b2b"
+        secondary: "#284b63"
+        tertiary: "#84a59d"
+        highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#fff23688"
-      # Everforest Spruce (Dark Mode)
       darkMode:
-        light: "#1e2326"
-        lightgray: "#272e33"
-        gray: "#7a8478"
-        darkgray: "#d3c6aa"
-        dark: "#e4e1cd"
-        secondary: "#a7c080"
-        tertiary: "#7fbbb3"
-        highlight: "rgba(167, 192, 128, 0.15)"
+        light: "#161618"
+        lightgray: "#393639"
+        gray: "#646464"
+        darkgray: "#d4d4d4"
+        dark: "#ebebec"
+        secondary: "#7b97aa"
+        tertiary: "#84a59d"
+        highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#b3aa0288"
 plugins:
   - source: "@quartz-community/created-modified-date"
@@ -103,9 +101,9 @@ plugins:
   - source: "@quartz-community/quartz-fonts"
     enabled: true
   - source: "@quartz-themes/core"
-    enabled: false
+    enabled: true
     options:
-      theme: tokyo-night
+      theme: everforest
       mode: both
   - source: "@quartz-community/remove-draft"
     enabled: true
