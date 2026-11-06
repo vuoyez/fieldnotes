@@ -46,3 +46,10 @@ as mentioned in my [[a gardener's diary|my diary]], i'm trying to install the ev
 styling i wanna do in the future:
 - lowercase "explore", "home", etc
 - edit footnotes (remove github and discord sorry)
+
+testing, absurdism
+
+***
+
+lessons i've learned from starting a digital garden via obsidian/quartz (so far)
+- set up your obsidian first (theme, plug-ins, workflow) before working to sync it to quartz/github

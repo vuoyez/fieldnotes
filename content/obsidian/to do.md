@@ -1,0 +1,3 @@
+- [ ] edit color scheme of underwater to that of primary
+- [ ] change [[quartz]] theme to underwater
+	- [ ] change color scheme to primary (idk how i'll do this)
