@@ -16,29 +16,31 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
-      code: IBM Plex Mono
+      header: Outfit
+      body: Inter
+      code: "JetBrains Mono"
     colors:
+      # Everforest Light
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
+        light: "#fdf6e3"
+        lightgray: "#efebd4"
+        gray: "#a6b0a0"
+        darkgray: "#5c6a72"
+        dark: "#3a464c"
+        secondary: "#8da101"
+        tertiary: "#35a77c"
+        highlight: "rgba(141, 161, 1, 0.12)"
         textHighlight: "#fff23688"
+      # Everforest Spruce (Dark Mode)
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
+        light: "#1e2326"
+        lightgray: "#272e33"
+        gray: "#7a8478"
+        darkgray: "#d3c6aa"
+        dark: "#e4e1cd"
+        secondary: "#a7c080"
+        tertiary: "#7fbbb3"
+        highlight: "rgba(167, 192, 128, 0.15)"
         textHighlight: "#b3aa0288"
 plugins:
   - source: "@quartz-community/created-modified-date"
@@ -61,17 +63,7 @@ plugins:
   - source: "@quartz-community/obsidian-flavored-markdown"
     enabled: true
     options:
-      comments: true
-      highlight: true
-      wikilinks: true
-      callouts: true
-      mermaid: true
-      parseTags: true
-      parseArrows: true
-      parseBlockReferences: true
       enableInHtmlEmbed: false
-      enableYouTubeEmbed: true
-      enableVideoEmbed: true
       enableCheckbox: true
     order: 30
   - source: "@quartz-community/github-flavored-markdown"
@@ -100,7 +92,7 @@ plugins:
     enabled: false
     order: 85
   - source: "@quartz-community/hard-line-breaks"
-    enabled: true
+    enabled: false
     order: 90
   - source: "@quartz-community/ox-hugo"
     enabled: false
@@ -111,31 +103,14 @@ plugins:
   - source: "@quartz-community/quartz-fonts"
     enabled: true
   - source: "@quartz-themes/core"
-    enabled: true
+    enabled: false
     options:
-      theme: default
+      theme: tokyo-night
       mode: both
   - source: "@quartz-community/remove-draft"
     enabled: true
   - source: "@quartz-community/explicit-publish"
     enabled: false
-  - source: "@quartz-community/unlisted-pages"
-    enabled: true
-    options: {}
-    order: 45
-  - source: "@quartz-community/encrypted-pages"
-    enabled: true
-    options:
-      iterations: 600000
-      passwordField: password
-      unlistWhenEncrypted: false
-      outputPath: static/encryptedContentIndex.json
-  - source: "@quartz-community/stacked-pages"
-    enabled: false
-    layout:
-      position: afterBody
-      priority: 50
-      display: all
   - source: "@quartz-community/alias-redirects"
     enabled: true
   - source: "@quartz-community/content-index"
@@ -266,13 +241,24 @@ plugins:
       position: beforeBody
       priority: 15
       display: all
-  - source: "@quartz-community/obsidian-plugin-excalidraw"
+  - source: "@quartz-community/unlisted-pages"
+    enabled: true
+    options: {}
+    order: 45
+  - source: "@quartz-community/encrypted-pages"
     enabled: true
     options:
-      enableInteraction: true
-      darkMode: auto
-      exportPadding: 20
-    order: 50
+      iterations: 600000
+      passwordField: password
+      unlistWhenEncrypted: false
+      outputPath: static/encryptedContentIndex.json
+    order: 900
+  - source: "@quartz-community/stacked-pages"
+    enabled: false
+    layout:
+      position: afterBody
+      priority: 50
+      display: all
 layout:
   groups:
     toolbar:
