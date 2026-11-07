@@ -9,8 +9,6 @@ date: 2026-05-27
 	- arri alexa & almira - strictly digital (e.g. alexa 35, alexa lf, alexa mini, almira)
 	- arri "-flex" & "-cam" - traditional celluloid film (eg. arriflex 435, 235, 535, arricam lt, arricam st)
 
-***
-
 # defying the misconception
 independent/arthouse films are usually shot on celluloid film to present the grain, rich colors, and to remain "pure" in the traditional sense of filmmaking. common blockbuster films, on the other hand, are usually shot on digital for easier direction and possibly cgi manipulation. it can be noted that there are some exceptions to this observation. for one, film franchises that started before the era of digital maintain using celluloid film in modern sequels (e.g. jurrasic park, star wars) to evoke nostalgia, among other things. directors like christopher nolan can also be "purists", preferring to use wide film stocks in their directed genre movies.
 
@@ -20,8 +18,6 @@ independent/arthouse films are usually shot on celluloid film to present the gra
 ## arthouse shot on digital
 - [[shiva baby (2020)]] - sony FS7
 - [[the lighthouse (2019)]] - arri alexa mini
-
-***
 
 # films watched for research
 ## shot on film

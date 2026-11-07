@@ -132,3 +132,15 @@ custom check boxes
 
 ***
 
+text styles
+
+this is a **bold** text
+
+this is an *italic* text
+
+this is a ~~strikethroughed~~ text
+
+this is a ==highlighed== text
+
+this is a ***bold and italic*** text
+
