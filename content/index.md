@@ -5,7 +5,7 @@ hello! my name is sy[^1].
 
 this [digital garden](https://maggieappleton.com/garden-history) is a fraction of my forest of thoughts, thrown into the internet void to [show my work](https://notes.andymatuschak.org/zCMhncA1iSE74MKKYQS5PBZ) and [learn in public](https://swyx.io/learn-in-public)[^2]. hence, you'll see here various ideas or niches that i'm currently into, or are learning through the years.
 
-for example, right now i am very into [[absurdism]].
+for example, right now i am very into [[absurdism]]. like, very. and that tension between [[albert camus|camus]] and [[søren kierkegaard|kierkegaard]]?
 
 > i, by and large, write for myself. [writing](https://jzhao.xyz/thoughts/writing), for me, is a form of [knowledge distillation](https://jzhao.xyz/thoughts/knowledge-distillation). it helps to clarify my thinking and condense my knowledge so i can easily articulate it to others. if done well, i have a **shareable representation of my thoughts** that i can send out into the world and people can respond.\
 > — [jzhao.xyz](https://jzhao.xyz/posts/networked-thought)
