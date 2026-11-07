@@ -1,3 +1,7 @@
+---
+tags:
+  - meta
+---
 # common terminal commands
 - open config → `open -e quartz.config.yaml`
 - open css → `open -e quartz/styles/custom.scss` 

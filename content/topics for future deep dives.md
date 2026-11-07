@@ -1,0 +1,14 @@
+---
+tags:
+  - meta
+---
+- patents. the ethics and economy of generic meds. [evil johnson & johnson](https://www.goodreads.com/en/book/show/216247552-no-more-tears)
+- [the carbon footprint of different milk types](https://www.youtube.com/watch?v=s6TXDFp1EcM)
+- [[deep ocean exploration]]. [[victor vescovo]]. [[oceangate titan submersible]]. challenger deep
+- ai
+- books: algospeak, cultish, [[the anthropocene reviewed]], [[everything is tuberculosis]]
+- [[the invention of the atomic bomb]]
+- [[absurdism]]. [[t.m. scanlon]]. [[what we owe to each other]]. [[leap of faith]]. [[philosophical suicide]]
+- [[the beatles mania]]
+- [[cloud storage]]
+- [[cognitive biases]]

@@ -1,3 +1,7 @@
+---
+tags:
+  - meta
+---
 this is page is more on the technical side / 101 of setting up an online garden. fair warning that i didn't mean for this to be a tutorial but more of a record of what i did so i can backtrack in case i fork some things up or just plainly forget.
 
 if you're more interested on the *whys* of setting up an online garden, you can read about it [[on setting up an online garden|here]].
