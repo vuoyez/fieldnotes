@@ -1,3 +1,0 @@
-- [olu](https://notes.olu.online/)
-- [eilleen](https://quartz.eilleeenz.com/)
-- 
